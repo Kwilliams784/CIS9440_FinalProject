@@ -33,7 +33,7 @@ Project Business or Organization Value:
 
 Data Sources:
 1. General large dataset of COVID-19 cases (https://covidtracking.com/data/download)
-2. Zillow Housing Data pre-2020 (https://www.zillow.com/research/data/)
+2. Zillow Housing Data (https://www.zillow.com/research/data/)
 3. State Race Demographics (https://www.governing.com/now/State-Population-By-Race-Ethnicity-Data.html) 
 
 ### Business Requirements Definition
@@ -50,12 +50,10 @@ List of Data Warehouse KPI's:
 
 This project's Dimensional Model consists of 3 Facts and 3 Dimensions
 
-Use correct file path here to show picture of dimensional model...
 ![Alt text](/img/dimensional_model.jpg)
 
 This project's Kimball Bus Matrix:
 
-Use correct file path here to show picture of dimensional model...
 ![Alt text](/img/kimball_bus_matrix.JPG)
 
 ### Business Intelligence Design and Development
@@ -69,12 +67,10 @@ List of Visualizations for each KPI:
 
 BI Application Wireframe design:
 
-Use correct file path here to show picture of Wireframe design...
 ![Alt text](/img/wireframe_design.jpg)
 
-Picture of final Dashboard:
+Picture of final Dashboards:
 
-Use correct file path here to show picture of Dashboard...
 ![Alt text](img/FInal_Project_Dashboard.png)
 ![Alt text](/img/FInal_Project_Dashboard_2.png)
 
